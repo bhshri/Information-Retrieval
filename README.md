@@ -1,5 +1,9 @@
-# Information-Retrieval
-Various tasks and methods used in Information Retrieval
 
-YASS Stemmer: Stemming is implemented using agglomerative clustering using various distance measures for the strings.
+# TF-IDF: Implementationa of TF-IDF on a set of documents and comparison with the Sklearn implementation.
+
+# LSI: Implementation of LSI on set of documents with the help of SVD and testing Retrieval of documents using cosine similarity measure.
+
+# 
+
+# YASS Stemmer: Stemming is implemented using agglomerative clustering using various distance measures for the strings.
 https://dl.acm.org/doi/10.1145/1281485.1281489
